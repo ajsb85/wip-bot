@@ -25,12 +25,12 @@
   },
   "homepage": "https://github.com/gr2m/wip-bot#readme",
   "dependencies": {
-    "probot": "^3.0.0"
+    "probot": "^12.3.3"
   },
   "devDependencies": {
     "localtunnel": "^1.8.3",
     "semantic-release": "^8.2.0",
-    "standard": "^10.0.3"
+    "standard": "^17.1.0"
   },
   "engines": {
     "node": "8"
